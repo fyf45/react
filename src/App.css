@@ -1,0 +1,13 @@
+body{
+    min-height: 100%;
+
+}
+.model-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.model{
+    position: static;
+    width: 70%;
+}
